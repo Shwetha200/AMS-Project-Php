@@ -29,6 +29,13 @@
             <input type="password" name="password" class="input-field" placeholder="Enter Password ">
             <button type="submit" name="register" class="submit-btn" >Register</button>
         </form>
+        <!-- <form id="register" class="input-group" action="tenantregisterphp.php" method="post">
+            <input type="text" name="name" class="input-field" placeholder="Name "><br>
+            <input type="text" name="contact" class="input-field" placeholder="Phone " ><br>
+            <input type="email" name="email" class="input-field" placeholder="Email-id" ><br>
+            <input type="password" name="password" class="input-field" placeholder="Enter Password ">
+            <button type="submit" name="register" class="submit-btn" >Register</button>
+        </form> -->
     </div>
         </div>
     <script>
