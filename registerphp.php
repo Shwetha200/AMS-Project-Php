@@ -27,3 +27,21 @@ if($num ==1)
     }
 }   
 ?>
+
+
+
+<!-- if($num ==1)
+{
+    echo"Email-id aldready taken";
+}
+    else
+    {
+      $register= "insert into manager values('$Name','$Phone','$Email_id','$Password')";
+      mysqli_query($con,$register);
+      header('Location:login.php', TRUE, 302);
+      echo"regitration successful";
+     
+
+    }
+}   
+?> -->
